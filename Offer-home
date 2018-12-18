@@ -265,22 +265,24 @@
                         </a>
                     </div>
                     <!-- Home Insurance End -->
-                    <!-- Michell Bridges Offer 1-->
-                    <div class="col-md-4 col-xs-12 offer_third_tile tile">
-                        <a href="https://offers.ahm.com.au/ahm-michelle-bridges" class="offer_link clearfix">
-                            <div class="col-md-12 col-xs-12 offer_image">
-                                <img class="rsp_img" src="https://image.marketing.medibank.com.au/lib/fe8b13727d62077577/m/1/45fd2bff-27d6-4df7-aad0-b7d977271eca.jpg" alt="Enjoy 20% off 12WBT with Michelle Bridges" />
-                            </div>
-                            <div class="col-md-12 col-xs-12 offer_content">
-                                <h3 class="offer_title">Enjoy 20% off 12WBT with Michelle Bridges</h3>
-                                <p class="offer_details">Get ready for Summer, today.</p>
-                                <div class="offer_link">
-                                    <b>Get on board</b>&nbsp;<i class="ahm-icon-chevron-right" style="font-size: 12px"></i>
+                    <!-- Claims calculator -->
+                    <div class="col-md-4 col-xs-12 offer_thirdx2_tile tile offer_ahm_background">
+                        <a href="https://members.ahm.com.au/calculator" class="offer_link clearfix" style="-webkit-box-shadow: none !important; box-shadow: none !important;  ">
+                            <div class="offer_ahm_line" style="padding left: 0px; padding right: 0px">
+                                <div class="offer_wrapper clearfix xs-mbot-0">
+                                    <div class="col-md-12 col-xs-12 offer_content pad-20">
+                                        <h4 class="offer_title">Let us do the maths with our Benefit calculator</h4>
+                                        <p class="offer_details" style="margin-top: 0px">Get an idea of how much you'll get back on your extras claim.</p>
+                                        <div class="offer_link">
+<b>Log in</b>&nbsp;<i class="ahm-icon-chevron-right" style="font-size: 12px"></i>
+                                        </div>
+                                    </div>
+                                    
                                 </div>
                             </div>
                         </a>
                     </div>
-                    <!-- Michell Bridges End -->
+                    <!-- Claims End -->
                     <!-- Car Insurance Offer 1-->
                     <div class="col-md-4 col-xs-12 offer_third_tile tile">
                         <a href="https://ahm.com.au/offers/real-insurance" class="offer_link clearfix">
